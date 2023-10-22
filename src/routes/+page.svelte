@@ -11,8 +11,4 @@
 			leveraging AI to create solutions that drive efficiency and innovation.
 		</p>
 	</div>
-	<div class="flex flex-row justify-center gap-2">
-		<button class="btn btn-active btn-primary w-full">CV</button>
-		<button class="btn btn-active btn-primary w-full">Home</button>
-	</div>
 </div>
