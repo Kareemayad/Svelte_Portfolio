@@ -1,7 +1,7 @@
 <div class="flex flex-row justify-between items-center bg-base-300">
-	<div class="p-3 font-bold flex"><a href="/">KA</a></div>
+	<div class="p-3 font-bold flex text-2xl"><a href="/">KA</a></div>
 
-	<ul class="flex !flex-row justify-center gap-10 pr-52 menu menu-horizontal px-1">
+	<ul class="flex !flex-row justify-center gap-10 pr-28 menu menu-horizontal px-1 font-bold">
 		<li><a href="/">Home</a></li>
 		<li><a href="">Resume</a></li>
 		<li><a href="">Projects</a></li>
