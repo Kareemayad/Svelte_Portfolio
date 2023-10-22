@@ -10,5 +10,13 @@
   {
     "iconeName": "logos:youtube-icon",
     "iconeColored": true
+  },
+  {
+    "iconeName": "devicon:linkedin",
+    "iconeColored": true
+  },
+  {
+    "iconeName": "skill-icons:instagram",
+    "iconeColored": true
   }
 ]
