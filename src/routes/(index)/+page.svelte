@@ -1,4 +1,4 @@
-<div class="w-full h-full flex justify-center items-center flex-col gap-3 px-3">
+<div class="w-full flex justify-center items-center flex-col gap-3 px-3 min-h-screen">
 	<div class="avatar flex">
 		<div class=" w-full max-w-[150px] rounded-full">
 			<img alt="Sorty" src="Sorty.jpeg" />
