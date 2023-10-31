@@ -1,5 +1,7 @@
 <div>
-	<footer class="footer px-4 py-3 bg-neutral text-neutral-content flex flex-row justify-between">
+	<footer
+		class="footer px-4 py-3 bg-neutral text-neutral-content flex items-center justify-between h-footer"
+	>
 		<div>
 			<p class="text-lg">Kareem Ayad</p>
 		</div>

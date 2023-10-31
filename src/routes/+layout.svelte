@@ -1,13 +1,17 @@
 <script>
-	import '../app.css';
+	import '../app.postcss';
 	import Header from '$lib/components/layout/Header.svelte';
 	import Footer from '$lib/components/layout/Footer.svelte';
 </script>
 
-<div class="flex flex-col !min-h-screen">
-	<Header />
-	<div class="h-full">
+<div class="w-full min-h-screen-new">
+	<div class="w-full min-h-header">
+		<Header />
+	</div>
+	<div class="flex-center stretch min-h-page">
 		<slot />
 	</div>
-	<Footer />
+	<div class="w-full min-h-footer">
+		<Footer />
+	</div>
 </div>

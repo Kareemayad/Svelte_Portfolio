@@ -1,44 +1,51 @@
 [
     {
-        "title": "Project 1",
+        "title": "Starter project - Breakout",
         "description":
             "Breakout is a classic computer arcade game Demonstrate a practical understanding of Object-Oriented programming techniques Use sequence, selection and iteration to develop simple applications Utilize a variety of data types and collections Test and debug simple programs.",
         "src": "BreakOut-game.png",
         "alt": "Break Out Game"
     },
     {
-        "title": "Project 2",
+        "title": "Responsive website",
         "description":
-            "Breakout is a classic computer arcade game Demonstrate a practical understanding of Object-Oriented programming techniques Use sequence, selection and iteration to develop simple applications Utilize a variety of data types and collections Test and debug simple programs.",
-        "src": "BreakOut-game.png",
-        "alt": "Break Out Game"
+            " I understood and applyed web technologies. Appreciate and apply fundamental web design principles. Create well-formed, accessible, and standards-compliant web pages.",
+        "src": "ResponsiveWeb.png",
+        "alt": "Responsive Web Page"
     },
     {
-        "title": "Project 3",
+        "title": "ML Open ended project",
         "description":
-            "Breakout is a classic computer arcade game Demonstrate a practical understanding of Object-Oriented programming techniques Use sequence, selection and iteration to develop simple applications Utilize a variety of data types and collections Test and debug simple programs.",
-        "src": "BreakOut-game.png",
-        "alt": "Break Out Game"
+            "Understand logic reasoning, NLP, speech, and image recognition. Demonstrate a critical awareness of current AI techniques. Justify appropriate AI techniques to solve real world problems.",
+        "src": "MLOpenendedproject.png",
+        "alt": "ML Openended project"
     },
     {
-        "title": "Project 4",
+        "title": "Health Chatbot",
         "description":
-            "Breakout is a classic computer arcade game Demonstrate a practical understanding of Object-Oriented programming techniques Use sequence, selection and iteration to develop simple applications Utilize a variety of data types and collections Test and debug simple programs.",
-        "src": "BreakOut-game.png",
-        "alt": "Break Out Game"
+            "The project aimed to create a chatbot that can assist customers in real-time, answering frequently asked questions, guiding users through troubleshooting processes, and providing information about products and services. The chatbot was designed to understand the context, manage multi-turn conversations, and provide relevant and accurate responses.",
+        "src": "ChatBot.png",
+        "alt": "Health Chatbot"
     },
     {
-        "title": "Project 5",
+        "title": "Huffman Coding",
         "description":
-            "Breakout is a classic computer arcade game Demonstrate a practical understanding of Object-Oriented programming techniques Use sequence, selection and iteration to develop simple applications Utilize a variety of data types and collections Test and debug simple programs.",
-        "src": "BreakOut-game.png",
-        "alt": "Break Out Game"
+            "The project focused on the design and implementation of the Huffman coding algorithm, a popular lossless data compression technique. Given an input file, the algorithm assigns variable-length codes to input characters, prioritizing frequent characters with shorter codes. This results in a compressed output that can be decompressed to retrieve the original data without any loss.",
+        "src": "Huffman.png",
+        "alt": "Huffman Coding"
     },
     {
-        "title": "Project 6",
+        "title": "Rock Paper Scissors Game",
         "description":
-            "Breakout is a classic computer arcade game Demonstrate a practical understanding of Object-Oriented programming techniques Use sequence, selection and iteration to develop simple applications Utilize a variety of data types and collections Test and debug simple programs.",
-        "src": "BreakOut-game.png",
-        "alt": "Break Out Game"
+            "The Rock, Paper, Scissors game is a classic hand game usually played between two people. In this mobile adaptation, the player competes against the computer. The winner is determined by the rules: rock crushes scissors, scissors cuts paper, and paper covers rock and was implemented with Android Studio with Kotlin (for Android development) OR Xcode with Swift (for iOS development). UI/UX design tools like Adobe XD or Sketch for mockups.",
+        "src": "RPS.png",
+        "alt": "Rock Paper Scissors Game"
+    },
+    {
+        "title": "Forecasting Bitcoin Prices",
+        "description":
+            "In this project, I employed machine learning algorithms and time series analysis to predict Bitcoin prices. The primary goal was to analyze historical data and identify patterns that could be leveraged for predictive modeling, contributing to more informed investment decisions. Key components included: Data Collection and Preprocessing, Exploratory Data Analysis (EDA), Feature Engineering and Selection, Modeling and Algorithms, Hyperparameter Tuning and Optimization, Validation and Back testing, Sentiment Analysis Integration, Visualization and Reporting",
+        "src": "Bitcoin.png",
+        "alt": "Forecasting Bitcoin Prices"
     }
 ]
