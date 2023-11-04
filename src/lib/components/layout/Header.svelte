@@ -5,6 +5,6 @@
 		<li><a href="/">Home</a></li>
 		<li><a target="_blank" href="CV resume.pdf">Resume</a></li>
 		<li><a href="projectsPage">Projects</a></li>
-		<li><a href="">Contact</a></li>
+		<li><a href="contactpage">Contact</a></li>
 	</ul>
 </div>
